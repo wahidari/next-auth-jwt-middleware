@@ -1,0 +1,29 @@
+{
+  "name": "next-jwt-auth-middleware",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.6.4",
+    "@heroicons/react": "^1.0.6",
+    "@tailwindcss/forms": "^0.5.2",
+    "axios": "^0.27.2",
+    "jsonwebtoken": "^8.5.1",
+    "next": "^12.1.0",
+    "nookies": "^2.5.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
